@@ -1,6 +1,6 @@
 # README #
 
-Welcome to the compute 250 labs. We will be using bitbucket to store and manage our code. 
+Welcome to the CMPUT 250 labs. We will be using bitbucket to store and manage our code. 
 Please begin by forking the repository.
 
 ### What is this repository for? ###
