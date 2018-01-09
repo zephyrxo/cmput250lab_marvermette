@@ -1,6 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Welcome to the compute 250 labs. We will be using bitbucket to store and manage our code. 
+Please begin by forking the repository.
 
 ### What is this repository for? ###
 
