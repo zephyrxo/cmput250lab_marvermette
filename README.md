@@ -4,13 +4,8 @@ Welcome to the CMPUT 250 labs. We will be using bitbucket to store and manage ou
 
 Please begin by forking the repository.
 
-### What is a repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I fork a repository? ###
+## How do I fork a repository? ##
 
 1. Press the plus button on the left pannel
 2. Press fork this repository
