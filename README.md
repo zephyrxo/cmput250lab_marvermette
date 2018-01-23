@@ -17,5 +17,5 @@ Please begin by forking the repository and then importing the issue tracker file
 
 1. Download the "labs-issues.zip" from the lab 1 eclass page
 2. In your repo newly forked repo go to settings
-3. Under Issues selelct import&export
-4. select "chose file" in the import issues section and upload the "labs-ussues.zip"
+3. Under Issues select import&export
+4. select "chose file" in the import issues section and upload the "labs-issues.zip"
